@@ -7,7 +7,7 @@ const API_KEY = process.env.PEXEL_KEY
 var pexelsClient = new PexelsAPI(API_KEY)
 
 const handler = (req, res) => {
-	pexelsClient.getCuratedPhotos(10, 1)
+	pexelsClient.getCuratedPhotos(30, 1)
 	    .then(function(result){
 	        return res.status(200).json({"photos": result})
 	    }).
