@@ -2,5 +2,5 @@
 	"env": {
 		"PEXEL_KEY": "@pexel"
 	},
-	"alias": ["https://toeic-photo-api.seatsmart.tech/"]
+	"alias": ["toeic-photo-api.seatsmart.tech"]
 }
