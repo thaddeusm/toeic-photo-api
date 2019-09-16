@@ -1,0 +1,6 @@
+{
+	"env": {
+		"PEXEL_KEY": "@pexel"
+	},
+	"alias": ["https://toeic-photo-api.seatsmart.tech/"]
+}
